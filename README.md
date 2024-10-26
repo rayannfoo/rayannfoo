@@ -1,4 +1,4 @@
-# Welcome to Dexter Wong's GitHub Profile!
+# Welcome to Rayann Foo's GitHub Profile!
 
 Hello! I'm Rayann Foo, an aspiring IT professional with certifications in Software Engineering. Proficient in React, Next.JS, NodeJS, Java, C#,C++ and Python. Committed to continuous learning and personal growth, consistently seeking out opportunities to expand my skills. With excellent problem-solving abilities, Thrives in challenging environments and excel at bridging the gap between technical and non-technical stakeholders through clear and effective communication. Ready to contribute to innovative projects and deliver impactful results in a fast-paced team environment.
 
