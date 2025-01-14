@@ -5,6 +5,7 @@ Hello! I'm Rayann Foo, an aspiring IT professional with certifications in Softwa
 ## 📫 Contact Information
 - **Email:** [rayannfoo24@gmail.com](mailto:rayannfoo24@gmail.com)
 - **LinkedIn:** [Rayann Foo](https://www.linkedin.com/in/rayannfoo/)
+- **Resume** [https://github.com/rayannfoo/RayannFoo_Resume]
 - **Location:** Singapore
 
 ## 🎓 Education
